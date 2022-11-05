@@ -1,4 +1,4 @@
-# stable-diffusion
+# AI art
 
 ## Overview
 This repo contains various experiments with AI art propositions which are accessible via an API:
